@@ -1,6 +1,6 @@
 Oi, eu sou o Vitor Marques
 
-- 🔭 A procura de de um estágio.
+- 🔭 A procura de um estágio.
 - 🌱 Estudando js/css/html.
 - 📫 Contato: linkedin.com/in/vitor-marques-santos-26b0a922a
 
