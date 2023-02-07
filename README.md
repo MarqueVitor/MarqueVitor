@@ -1,6 +1,5 @@
 Oi, eu sou o Vitor Marques
 
-- 🔭 A procura de um estágio.
 - 📫 Contato: linkedin.com/in/vitor-marques-santos-26b0a922a
 
 <div align="center">
