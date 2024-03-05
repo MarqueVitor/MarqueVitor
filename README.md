@@ -20,4 +20,4 @@ Sou estudante de **Sistemas de Informação**.
   
   ## 📬 Contatos
 - 🌟 GitHub: [https://github.com/MarqueVitor](https://github.com/MarqueVitor)
-- 💼 LinkedIn: [linkedin.com/in/vitor-marques-santos-26b0a922a](linkedin.com/in/vitor-marques-santos-26b0a922a)
+- 💼 LinkedIn: [linkedin.com/in/vitor-marques-santos-26b0a922a](https://www.linkedin.com/in/vitor-marques-santos-26b0a922a/)
