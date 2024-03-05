@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Vitor Marques👨‍💻
 
-## 🛸 Sobre Mim
+## 🛸 Sobre 
 
 Sou estudante de **Sistemas de Informação**.
 
