@@ -2,7 +2,7 @@
 
 ## 🛸 Sobre 
 
-Sou estudante de **Sistemas de Informação**.
+Estudante de **Sistemas de Informação**.
 
 <div align="center">
   <a href="https://github.com/MarqueVitor">
