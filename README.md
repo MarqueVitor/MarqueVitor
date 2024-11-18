@@ -1,7 +1,5 @@
 # 👋 Olá, meu nome é Vitor Marques👨‍💻
 
-## 🛸 Sobre 
-
 Estudante de **Sistemas de Informação**.
 
 <div align="center">
