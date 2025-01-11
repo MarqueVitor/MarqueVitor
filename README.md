@@ -5,6 +5,7 @@ Estudante de **Sistemas de Informação**.
 <div style="text-align: center;">
   <a href="https://github.com/MarqueVitor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
   </a>
 </div>
     
