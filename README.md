@@ -2,11 +2,9 @@
 
 Estudante de **Sistemas de Informação**.
 
-<div style="text-align: center;">
-  <a href="https://github.com/MarqueVitor" aria-label="Perfil do GitHub de MarqueVitor">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de MarqueVitor"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=github_dark" alt="Vitor's GitHub Stats" />
+</p>
     
   ## 🛠️ Tecnologias & Ferramentas
   <div style="display: inline_block"><br>
