@@ -3,8 +3,8 @@
 Estudante de **Sistemas de Informação**.
 
 <div style="text-align: center;">
-  <a href="https://github.com/MarqueVitor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/MarqueVitor" aria-label="Perfil do GitHub de MarqueVitor">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarqueVitor&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de MarqueVitor"/>
   </a>
 </div>
     
